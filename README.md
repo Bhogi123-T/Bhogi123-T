@@ -1,7 +1,7 @@
 # 👋 Hi, I'm **Bhogeswara Rao T**
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&pause=700&color=36BCF7&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;AI+%26+Python+Engineer;Real-Time+Systems+Builder;Future+SDE+%7C+FAANG+Aspirant" />
+  <img src="https://raw.githubusercontent.com/Bhogi123-T/Bhogi123-T/main/banner.png" alt="Bhogeswara Rao T Banner" />
 </p>
 
 <p align="center">
@@ -35,7 +35,7 @@
 
 ---
 
-## 🛠️ Tech Stack (Industry-Ready)
+## 🛠️ Tech Stack
 
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -66,25 +66,11 @@
 
 ## 🚀 Featured Projects
 
-### 🌟 **NEXA_AI**
-**🔗 Repo:** https://github.com/Bhogi123-T/NEXA_AI  
-**Tech:** Python  
-
-- Modular AI experimentation & automation framework  
-- Focus on intelligent workflows and performance evaluation  
-- Designed for extensibility and real-world AI pipelines  
-
----
-
-### 🌊 **AQUA**
-**🔗 Repo:** https://github.com/Bhogi123-T/AQUA  
-**Tech:** Python  
-
-- Data-driven project emphasizing clean architecture  
-- Focus on automation, processing, and AI-ready pipelines  
-- Built with scalability and reusability in mind  
-
----
+### 🌊 AQUA (LIVE)
+🔗 https://aqua-ttiu.onrender.com/  
+- AI-driven smart aquaculture ecosystem  
+- Real-time monitoring, risk prediction & market insights  
+- Production-deployed system solving real-world problems  
 
 ### 🤖 **Here-and-Now-AI**
 **🔗 Repo:** https://github.com/Bhogi123-T/Here-and-Now-AI  

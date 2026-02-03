@@ -10,8 +10,8 @@
 ## 🔗 Connect With Me
 - 💼 **GitHub:** https://github.com/Bhogi123-T  
 - 🌐 **Portfolio:** *(Add if available)*  
-- 📧 **Email:** *(Add your email)*  
-- 💬 **LinkedIn:** *(Add your LinkedIn)*
+- 📧 **Email:** bhogeswararaothirumalasetti@gmail.com  
+- 💬 **LinkedIn:** https://www.linkedin.com/in/bhogeswara-rao-thirumalasetti-91929b2b4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 ---
 

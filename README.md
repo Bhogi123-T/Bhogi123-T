@@ -106,13 +106,15 @@
 ---
 
 ---
+---
 
-## 🔥 GitHub Activity Streak
-
-Keeping the momentum strong — every contribution counts 💪
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Bhogi123-T&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <img 
+    src="https://streak-stats.demolab.com?user=Bhogi123-T&theme=tokyonight&hide_border=true&cache_seconds=86400"
+    alt="GitHub Streak Stats"
+  />
 </p>
 
 ---

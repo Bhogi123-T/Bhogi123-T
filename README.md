@@ -1,7 +1,7 @@
 # 👋 Hi, I'm **Bhogeswara Rao T**
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Bhogi123-T/Bhogi123-T/main/banner.png" alt="Bhogeswara Rao T Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&pause=700&color=36BCF7&center=true&vCenter=true&width=750&lines=AI+%26+Python+Engineer;Real-Time+Systems+Builder;Future+SDE+%7C+FAANG+Aspirant" />
 </p>
 
 <p align="center">
@@ -35,7 +35,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack (Industry-Ready)
 
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -66,11 +66,25 @@
 
 ## 🚀 Featured Projects
 
-### 🌊 AQUA (LIVE)
-🔗 https://aqua-ttiu.onrender.com/  
+### 🌟 **NEXA_AI**
+**🔗 Repo:** https://github.com/Bhogi123-T/NEXA_AI  
+**Tech:** Python  
+
+- Modular AI experimentation & automation framework  
+- Focus on intelligent workflows and performance evaluation  
+- Designed for extensibility and real-world AI pipelines  
+
+---
+
+### 🌊 **AQUA**
+**🔗 Repo:** https://github.com/Bhogi123-T/AQUA  
+**Tech:** Python  
+
 - AI-driven smart aquaculture ecosystem  
-- Real-time monitoring, risk prediction & market insights  
-- Production-deployed system solving real-world problems  
+- Live monitoring, risk prediction & market insights  
+- Deployed production system with real-world impact  
+
+---
 
 ### 🤖 **Here-and-Now-AI**
 **🔗 Repo:** https://github.com/Bhogi123-T/Here-and-Now-AI  
@@ -87,7 +101,7 @@
 **Tech:** Python  
 
 - Python fundamentals & utilities repository  
-- Clean logic, reusable scripts, and learning-oriented design  
+- Clean logic, reusable scripts, learning-oriented design  
 
 ---
 
@@ -112,24 +126,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Bhogi123-T&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
-
----
-
-## 🧠 Current Focus
-
-- 📚 **Data Structures & Algorithms (FAANG prep)**  
-- 🏗️ System Design fundamentals  
-- ⚡ Real-time systems & distributed architecture  
-- 🤖 Scalable AI applications & agents  
-
----
-
-## 🌱 Open To
-
-- 💼 SDE Internships / Entry-Level Roles  
-- 🤝 Open-source collaboration  
-- 🧠 Hackathons & competitive programming  
-- 📢 Technical discussions & mentorship  
 
 ---
 

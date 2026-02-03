@@ -129,6 +129,24 @@
 
 ---
 
+## 🧠 Current Focus
+
+- 📚 **Data Structures & Algorithms (FAANG prep)**  
+- 🏗️ System Design fundamentals  
+- ⚡ Real-time systems & distributed architecture  
+- 🤖 Scalable AI applications & agents  
+
+---
+
+## 🌱 Open To
+
+- 💼 SDE Internships / Entry-Level Roles  
+- 🤝 Open-source collaboration  
+- 🧠 Hackathons & competitive programming  
+- 📢 Technical discussions & mentorship  
+
+---
+
 <p align="center">
   <b>“Build systems that scale. Learn fundamentals that last.”</b> 🚀
 </p>

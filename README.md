@@ -113,38 +113,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhogi123-T&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhogi123-T&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Bhogi123-T&theme=tokyonight" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bhogi123-T&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-## 📈 Detailed Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhogi123-T&count_private=true&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
 ## 🧠 Current Focus
 
 - 📚 **Data Structures & Algorithms (FAANG prep)**  

@@ -104,22 +104,50 @@
 - Clean logic, reusable scripts, learning-oriented design  
 
 ---
-## GitHub Statistics
+## 👤 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhogi123-T&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bhogi123-T&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhogi123-T&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+---
+
+## 📊 Contribution Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Bhogi123-T&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bhogi123-T&theme=tokyonight&utcOffset=5.5" />
 </p>
 
+---
+
+## 📈 Statistics
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bhogi123-T&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bhogi123-T&theme=tokyonight" />
+</p>
+
+---
+
+## 🧠 Top Languages by Commit
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bhogi123-T&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Bhogi123-T&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Bhogi123-T&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---

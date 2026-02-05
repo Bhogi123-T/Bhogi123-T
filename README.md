@@ -104,36 +104,26 @@
 - Clean logic, reusable scripts, learning-oriented design  
 
 ---
-
-<!-- Rainbow Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&customColorList=0,2,3,5,7,9,11" />
-</p>
-
-<h2 align="center">🌈 GitHub Activity Dashboard</h2>
-
----
-
-## 🧩 Profile Overview
+## 🚀 GitHub Activity Overview
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bhogi123-T&theme=rainbow" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bhogi123-T&theme=tokyonight" />
 </p>
 
 ---
 
-## 📊 Contribution Timeline
+## 📊 Contribution Insights
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bhogi123-T&theme=rainbow&utcOffset=5.5" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bhogi123-T&theme=tokyonight&utcOffset=5.5" />
 </p>
 
 ---
 
-## ⭐ GitHub Statistics
+## 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhogi123-T&show_icons=true&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bhogi123-T&theme=tokyonight" />
 </p>
 
 ---
@@ -141,7 +131,7 @@
 ## 🧠 Top Languages by Commit
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhogi123-T&layout=compact&theme=synthwave" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bhogi123-T&theme=tokyonight" />
 </p>
 
 ---
@@ -149,22 +139,16 @@
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Bhogi123-T&theme=highcontrast&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Bhogi123-T&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🏆 Achievements
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bhogi123-T&theme=rainbow&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Bhogi123-T&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
-
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=11,9,7,5,3,2,0" />
-</p>
-
 
 ---
 

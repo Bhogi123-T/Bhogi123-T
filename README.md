@@ -79,10 +79,10 @@
 
 AI-powered aquaculture ecosystem for intelligent farming and yield optimization.
 
-- 📈 Crop & fish yield prediction  
-- 🌡️ Environmental risk analysis  
+- 📈 Yield prediction & analytics  
+- 🌡️ Environmental risk monitoring  
 - 🤖 ML-based decision support  
-- 📊 Real-time monitoring dashboard  
+- 📊 Real-time dashboard  
 
 </td>
 <td width="50%" valign="top">
@@ -94,12 +94,12 @@ AI-powered aquaculture ecosystem for intelligent farming and yield optimization.
 <img src="https://img.shields.io/badge/Machine%20Learning-orange?style=flat-square"/>
 <img src="https://img.shields.io/badge/Time%20Series-blue?style=flat-square"/>
 
-Predictive analytics system for accurate sales forecasting.
+Predictive analytics platform for accurate sales forecasting.
 
-- 📊 Time-series demand prediction  
+- 📊 Time-series forecasting  
 - 📉 Trend & seasonality analysis  
-- 🧠 ML-driven business insights  
-- ⚡ Decision-support automation  
+- 🧠 ML-powered insights  
+- ⚡ Decision automation  
 
 </td>
 </tr>
@@ -114,29 +114,134 @@ Predictive analytics system for accurate sales forecasting.
 <img src="https://img.shields.io/badge/AI%20Agents-black?style=flat-square"/>
 <img src="https://img.shields.io/badge/Automation-success?style=flat-square"/>
 
-Foundation for building real-time, context-aware AI assistants.
+Framework for building real-time, context-aware AI assistants.
 
-- 🧠 Context-aware prompt handling  
-- ⚡ Real-time AI workflows  
-- 🤖 Intelligent agent pipelines  
-- 🔌 Extensible automation design  
+- 🧠 Context-aware prompt workflows  
+- ⚡ Real-time AI pipelines  
+- 🤖 Intelligent agents  
+- 🔌 Extensible architecture  
 
 </td>
 <td width="50%" valign="top">
 
 ### 🖐 <a href="https://github.com/Bhogi123-T/Hand-Screen-controller">Hand Screen Controller</a>
-**Gesture-Based Human-Computer Interaction**
+**Gesture-Based HCI System**
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square"/>
 <img src="https://img.shields.io/badge/Computer%20Vision-red?style=flat-square"/>
 
-Control your screen using real-time hand gestures.
+Hands-free computer interaction using real-time vision.
 
 - ✋ Real-time hand tracking  
 - 🖥️ Touch-free screen control  
-- 🎯 Accurate gesture recognition  
-- ⚡ Low-latency performance  
+- 🎯 Accurate gesture detection  
+- ⚡ Low latency  
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📢 <a href="https://github.com/Bhogi123-T/Hand-volume-controller">Hand Volume Controller</a>
+**Gesture-Based Audio Control**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square"/>
+<img src="https://img.shields.io/badge/HCI-purple?style=flat-square"/>
+
+Control system volume using hand gestures.
+
+- 🔊 Touch-free volume control  
+- ✋ Vision-based gesture mapping  
+- ⚡ Real-time response  
+- 🎯 High accuracy  
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 <a href="https://github.com/Bhogi123-T/Jarvis">Jarvis</a>
+**AI Voice Assistant**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI-000000?style=flat-square"/>
+<img src="https://img.shields.io/badge/Automation-success?style=flat-square"/>
+
+Voice-enabled AI assistant for task automation.
+
+- 🎙️ Speech recognition  
+- 🧠 Intelligent command handling  
+- ⚙️ Task automation  
+- 🔌 Extensible modules  
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🌌 <a href="https://github.com/Bhogi123-T/Chill-Space">Chill Space</a>
+**Real-Time Collaboration Platform**
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Frontend-61DAFB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Realtime-success?style=flat-square"/>
+
+Collaborative workspace for teams and students.
+
+- 💬 Real-time collaboration  
+- 📁 File & resource sharing  
+- 🎯 Productivity-focused UI  
+- ⚡ Fast & responsive  
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 <a href="https://github.com/Bhogi123-T/PT1">PT1</a>
+**Python Foundations Repository**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Core%20Logic-blue?style=flat-square"/>
+
+Collection of Python fundamentals and utilities.
+
+- 🧩 Core Python concepts  
+- 🛠️ Reusable scripts  
+- 📚 Learning-oriented design  
+- ✅ Clean logic  
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 💻 <a href="https://github.com/Bhogi123-T/codesoft">codesoft</a>
+**Programming Practice Repository**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Problem%20Solving-orange?style=flat-square"/>
+
+Practice repository for coding and logic building.
+
+- 🧠 Algorithmic thinking  
+- 💡 Problem-solving practice  
+- 🧩 Structured solutions  
+
+</td>
+<td width="50%" valign="top">
+
+### 📦 <a href="https://github.com/Bhogi123-T/Bhogi123-T">Bhogi123-T</a>
+**GitHub Profile Repository**
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+
+Personal GitHub profile configuration.
+
+- 🎨 Profile README  
+- 📊 GitHub stats integration  
+- 🔗 Central developer identity  
 
 </td>
 </tr>

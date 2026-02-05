@@ -105,20 +105,52 @@
 
 ---
 
-## 📊 GitHub Statistics
+## 🚀 GitHub Activity Overview
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bhogi123-T&theme=tokyonight" />
 </p>
 
+---
+
+## 📊 Contribution Insights
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bhogi123-T&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bhogi123-T&theme=tokyonight&utcOffset=5.5" />
+</p>
+
+---
+
+## 📈 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bhogi123-T&theme=tokyonight" />
+</p>
+
+---
+
+## 🧠 Top Languages by Commit
+
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bhogi123-T&theme=tokyonight" />
 </p>
 
+---
+
+## 🔥 Contribution Streak
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Bhogi123-T&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img src="https://streak-stats.demolab.com?user=Bhogi123-T&theme=tokyonight&hide_border=true" />
 </p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Bhogi123-T&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
 
 ---
 

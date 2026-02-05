@@ -250,27 +250,33 @@ Personal GitHub profile configuration.
 ---
 ## 👤 GitHub Overview 📊
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bhogi123-T&theme=tokyonight" />
-</p>
+<table>
+<tr>
+<td width="50%">
 
----
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bhogi123-T&theme=tokyonight"/>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bhogi123-T&theme=tokyonight&utcOffset=5.5" />
-</p>
+</td>
+<td width="50%">
 
----
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bhogi123-T&theme=tokyonight"/>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bhogi123-T&theme=tokyonight" />
-</p>
+</td>
+</tr>
 
----
+<tr>
+<td width="50%">
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bhogi123-T&theme=tokyonight" />
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bhogi123-T&theme=tokyonight&utcOffset=5.5"/>
+
+</td>
+<td width="50%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bhogi123-T&theme=tokyonight"/>
+
+</td>
+</tr>
+</table>
 
 ---
 

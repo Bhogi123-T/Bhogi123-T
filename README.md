@@ -64,44 +64,83 @@
 
 ---
 
-## 🚀 Featured Projects
+## ⭐ Featured Projects
 
-### 🌟 **NEXA_AI**
-**🔗 Repo:** https://github.com/Bhogi123-T/NEXA_AI  
-**Tech:** Python  
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- Modular AI experimentation & automation framework  
-- Focus on intelligent workflows and performance evaluation  
-- Designed for extensibility and real-world AI pipelines  
+### 🌊 <a href="https://github.com/Bhogi123-T/AQUA">AQUA</a>
+**AI Smart Aquaculture Platform**
 
----
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-4CAF50?style=flat-square"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
 
-### 🌊 **AQUA**
-**🔗 Repo:** https://github.com/Bhogi123-T/AQUA  
-**Tech:** Python  
+AI-powered aquaculture ecosystem for intelligent farming and yield optimization.
 
-- AI-driven smart aquaculture ecosystem  
-- Live monitoring, risk prediction & market insights  
-- Deployed production system with real-world impact  
+- 📈 Crop & fish yield prediction  
+- 🌡️ Environmental risk analysis  
+- 🤖 ML-based decision support  
+- 📊 Real-time monitoring dashboard  
 
----
+</td>
+<td width="50%" valign="top">
 
-### 🤖 **Here-and-Now-AI**
-**🔗 Repo:** https://github.com/Bhogi123-T/Here-and-Now-AI  
-**Tech:** Python  
+### 📈 <a href="https://github.com/Bhogi123-T/AI-Sales-Forecasting">AI Sales Forecasting</a>
+**Business Intelligence System**
 
-- Real-time AI interaction foundation  
-- Context-aware prompt workflows  
-- Designed for intelligent assistants and automation  
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-orange?style=flat-square"/>
+<img src="https://img.shields.io/badge/Time%20Series-blue?style=flat-square"/>
 
----
+Predictive analytics system for accurate sales forecasting.
 
-### 🧠 **PT1**
-**🔗 Repo:** https://github.com/Bhogi123-T/PT1  
-**Tech:** Python  
+- 📊 Time-series demand prediction  
+- 📉 Trend & seasonality analysis  
+- 🧠 ML-driven business insights  
+- ⚡ Decision-support automation  
 
-- Python fundamentals & utilities repository  
-- Clean logic, reusable scripts, learning-oriented design  
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 <a href="https://github.com/Bhogi123-T/Here-and-Now-AI">Here-and-Now-AI</a>
+**Real-Time AI Interaction Engine**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%20Agents-black?style=flat-square"/>
+<img src="https://img.shields.io/badge/Automation-success?style=flat-square"/>
+
+Foundation for building real-time, context-aware AI assistants.
+
+- 🧠 Context-aware prompt handling  
+- ⚡ Real-time AI workflows  
+- 🤖 Intelligent agent pipelines  
+- 🔌 Extensible automation design  
+
+</td>
+<td width="50%" valign="top">
+
+### 🖐 <a href="https://github.com/Bhogi123-T/Hand-Screen-controller">Hand Screen Controller</a>
+**Gesture-Based Human-Computer Interaction**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-red?style=flat-square"/>
+
+Control your screen using real-time hand gestures.
+
+- ✋ Real-time hand tracking  
+- 🖥️ Touch-free screen control  
+- 🎯 Accurate gesture recognition  
+- ⚡ Low-latency performance  
+
+</td>
+</tr>
+</table>
 
 ---
 ## 👤 GitHub Overview 📊

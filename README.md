@@ -26,7 +26,7 @@
 ## 👨‍💻 About Me
 
 ```python
-class BhogiswaraRaoT:
+class BhogeswaraRao T:
 
     name        = "Bhogeswara Rao T"
     location    = "Chennai, India 📍"

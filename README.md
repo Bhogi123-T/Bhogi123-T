@@ -26,25 +26,58 @@
 ## 👨‍💻 About Me
 
 ```python
-class BhogeswaraRao T:
+class BhogeswaraRaoT:
 
+    # ─────────────────────────────────────────────
+    #   IDENTITY
+    # ─────────────────────────────────────────────
     name        = "Bhogeswara Rao T"
-    location    = "Chennai, India 📍"
-    education   = "B.Tech CSE (AI) — Sathyabama Institute of Science & Technology"
+    location    = "Chennai, India 🌏"
+    education   = "B.Tech CSE (AI) — Sathyabama Institute of Science & Technology · 2025"
 
-    domains     = ["AI/ML Engineering", "Full-Stack Development", "Real-Time Systems",
-                   "Computer Vision", "Predictive Analytics", "Intelligent Agents"]
+    # ─────────────────────────────────────────────
+    #   ENGINEERING DOMAINS
+    # ─────────────────────────────────────────────
+    domains = [
+        "AI / ML Engineering",        # Proprietary models · LLM integrations · Agents
+        "Full-Stack Development",      # Flask · FastAPI · Next.js · React · REST APIs
+        "Real-Time Systems",           # WebSockets · Event-driven · Stream processing
+        "Computer Vision",             # OpenCV · MediaPipe · Gesture HCI
+        "Predictive Analytics",        # Time-series · Forecasting · Ensemble models
+        "Intelligent Agents",          # Agentic workflows · RAG · Prompt pipelines
+    ]
 
-    currently   = ["DSA & Algorithms (FAANG Prep)", "System Design",
-                   "Scalable AI Applications", "Distributed Architecture"]
+    # ─────────────────────────────────────────────
+    #   CURRENTLY WORKING ON
+    # ─────────────────────────────────────────────
+    currently = [
+        "DSA & Algorithms  →  FAANG-level interview preparation",
+        "System Design     →  Distributed systems & scalable architecture",
+        "AI Applications   →  Production-grade LLM & agentic systems",
+        "Chill Space v3    →  Real-time collab hub (Next.js + Rust + Supabase)",
+    ]
 
-    open_to     = ["SDE Internships", "Entry-Level Engineering Roles",
-                   "Open-Source", "Hackathons", "Technical Mentorship"]
+    # ─────────────────────────────────────────────
+    #   OPEN TO
+    # ─────────────────────────────────────────────
+    open_to = [
+        "SDE Internships",
+        "Entry-Level Engineering Roles",
+        "Open-Source Collaboration",
+        "Hackathons",
+        "Technical Mentorship",
+    ]
 
-    quote       = "Every mistake trains me. Every step upgrades me. Growth over approval. ☺️"
+    # ─────────────────────────────────────────────
+    #   PRINCIPLE
+    # ─────────────────────────────────────────────
+    def __repr__(self):
+        return (
+            "Every mistake trains me. "
+            "Every step upgrades me. "
+            "Growth over approval. ☺️"
+        )
 ```
-
----
 
 ## 🛠️ Tech Stack
 

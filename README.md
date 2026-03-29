@@ -177,20 +177,11 @@ Structured practice repositories covering Python fundamentals, algorithmic think
 <div align="center">
 
 
-<br/>
+<br/>    
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhogi123-T&theme=tokyonight&hide_border=true&background=0d1117&stroke=00b4d8&ring=00b4d8&fire=ff6b6b&currStreakLabel=00b4d8&sideLabels=c9d1d9&dates=8b949e" />
 
-<br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhogi123-T&theme=tokyo-night&bg_color=0d1117&color=00b4d8&line=00b4d8&point=ffffff&hide_border=true&area=true&area_color=00b4d820" />
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bhogi123-T&theme=tokyonight" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bhogi123-T&theme=tokyonight&utcOffset=5.5" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bhogi123-T&theme=tokyonight" />
 
 </div>
 

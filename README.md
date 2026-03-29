@@ -63,117 +63,169 @@ class BhogeswaraRao T:
 
 ## 🚀 Projects
 
+<div align="center">
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
 ### 🌊 AQUA — AI Smart Aquaculture Platform
-[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Bhogi123-T/AQUA)
-[![Live](https://img.shields.io/badge/Live_Demo-🟢_Online-0ea5e9?style=flat-square)](https://aqua-ttiu.onrender.com)
+
+**Production AI platform for the aquaculture industry**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
 
-A production-deployed, AI-driven Progressive Web App transforming the aquaculture industry. Built with **4 proprietary ML algorithms** and a full **role-based supply chain ecosystem** connecting farmers, hatcheries, buyers, labs, and processing plants.
+Built with **4 proprietary ML algorithms** connecting 7 stakeholder roles across the full supply chain — farmers, hatcheries, buyers, labs & processing plants. ADER `92–95%` · APDC `88–91%` · ASER `90–93%` · AMPRO `85–89%`
 
-| Algorithm | Purpose | Accuracy |
-|-----------|---------|:--------:|
-| **ADER** — Aquaculture Decision Enhancement Regressor | Yield prediction & feed optimization | `92–95%` |
-| **APDC** — Aqua Predictive Disease Classifier | Multi-class disease risk assessment | `88–91%` |
-| **ASER** — Adaptive Stocking Ensemble Regressor | Optimal stocking density | `90–93%` |
-| **AMPRO** — Aqua Market Price Optimizer | Real-time buyer price prediction | `85–89%` |
+OTP auth · Google OAuth 2.0 · Multi-language PWA · Direct trade engine · Offline-capable
 
-> ✅ OTP auth (Email/SMS) · Google OAuth 2.0 · Multi-language PWA · Real-time market matrix · Direct trade engine · Offline-capable · Render deployed
+[![Live Demo](https://img.shields.io/badge/Live_Demo-0ea5e9?style=flat-square&logo=vercel&logoColor=white)](https://aqua-ttiu.onrender.com)
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Bhogi123-T/AQUA)
 
----
+</td>
+
+<td width="50%" valign="top">
 
 ### 🤖 NEXA AI — Conversational Intelligence Platform
-[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Bhogi123-T/NEXA_AI)
-[![Live](https://img.shields.io/badge/Live_Demo-🟢_Online-6366f1?style=flat-square)](https://nexa-ai-uxj9.onrender.com)
+
+**Multi-modal AI assistant with real-time streaming**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=flat-square&logo=openai&logoColor=white)
+![WebSpeech](https://img.shields.io/badge/Web_Speech_API-4285F4?style=flat-square&logo=google&logoColor=white)
 
-Multi-modal AI assistant supporting **text, voice, and file uploads**. Streams real-time LLM responses behind secure session authentication.
+Supports **text, voice, and file uploads** — processes through an LLM engine and streams responses in real time. Secured behind session authentication and deployed to production on Render.
 
-> ✅ Web Speech API voice input · File upload & AI analysis · Real-time streaming · Secure session auth · Render deployed
+Voice input · File upload & AI analysis · Real-time streaming · Secure session auth
 
----
+[![Live Demo](https://img.shields.io/badge/Live_Demo-6366f1?style=flat-square&logo=vercel&logoColor=white)](https://nexa-ai-uxj9.onrender.com)
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Bhogi123-T/NEXA_AI)
+
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
 
 ### 🌌 Chill Space v3 — Real-Time Collaboration Hub
-[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Bhogi123-T/Chill-Space)
-[![Frontend](https://img.shields.io/badge/Frontend_Live-🟡_In_Dev-8b5cf6?style=flat-square)](https://tamizh-loginpage.netlify.app)
+
+**Premium workspace with in-browser IDE**
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-CE422B?style=flat-square&logo=rust&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
 
-Premium collaborative workspace with glassmorphism UI, **Monaco in-browser IDE**, **Rust-powered code execution engine**, Supabase real-time chat, and a gamified XP focus mode.
+Glassmorphism UI · **Monaco in-browser IDE** · **Rust Actix-Web code execution engine** · Supabase real-time chat · Gamified XP focus mode with streaks & leaderboard · OAuth2 + row-level security
 
-> ✅ Monaco Editor · Rust Actix-Web backend · Supabase Realtime · Framer Motion · Multi-language code runner
+[![Frontend Live](https://img.shields.io/badge/Frontend_Live-8b5cf6?style=flat-square&logo=netlify&logoColor=white)](https://tamizh-loginpage.netlify.app)
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Bhogi123-T/Chill-Space)
 
----
+</td>
+
+<td width="50%" valign="top">
 
 ### 🎯 Ultimate Interview Prep — AI FAANG Simulator
-[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Bhogi123-T/Ultimate-Interview-prep-platform)
+
+**Gemini-powered FAANG interview practice platform**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_2.5-4285F4?style=flat-square&logo=google&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-FAANG-style interview simulator with Gemini-powered DSA question generation (Easy / Medium / Hard), live Python code sandbox with time-complexity analysis, AI hint system, and resume critique engine.
+Gemini-powered DSA question generation (Easy / Medium / Hard) · Live Python code sandbox · Time-complexity analysis · AI hint system · Resume critique engine · Offline SQLite progress tracker
 
-> ✅ Gemini 2.5 Flash · Live code sandbox · Time-complexity analysis · Resume analyzer · AI hint mode · SQLite progress tracker
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Bhogi123-T/Ultimate-Interview-prep-platform)
 
----
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
 
 ### 📊 Smart DSA Tracker — AI Practice Engine
-[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Bhogi123-T/Smart-DSA-Practice-Tracker)
+
+**Intelligent DSA practice with adaptive suggestions**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-Full-featured DSA practice platform with built-in solve timer, 5 Chart.js dashboards, and a **3-strategy AI suggestion engine**.
+5 Chart.js dashboards · Built-in solve timer · **3-strategy AI engine**: GAP FILL (untouched topics) → LEVEL UP (mastered topics) → SPEED DRILL (avg time > 40 min)
 
-| Strategy | Trigger | Action |
-|----------|---------|--------|
-| **GAP FILL** | Untouched topic detected | Suggests Easy entry-point problems |
-| **LEVEL UP** | Strong topic mastery | Pushes Medium / Hard challenges |
-| **SPEED DRILL** | Avg solve time > 40 min | Recommends Easy for speed training |
+Topic doughnut · Difficulty pie · 14-day streak · Avg time bar · Weekday heatmap
 
-> ✅ Solve timer · Topic doughnut · Difficulty pie · 14-day streak · Avg time bar · Weekday heatmap
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Bhogi123-T/Smart-DSA-Practice-Tracker)
 
----
+</td>
 
-### 📈 AI Sales Forecasting — Business Intelligence System
-[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Bhogi123-T/AI-Sales-Forecasting)
+<td width="50%" valign="top">
+
+### 📈 AI Sales Forecasting — Business Intelligence
+
+**Enterprise time-series ML forecasting platform**
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
-Enterprise predictive analytics platform for sales forecasting with trend and seasonality decomposition, simulation engine, and visual forecast dashboards.
+Implements time-series models with trend & seasonality decomposition, simulation engine, and visual forecast dashboards. TypeScript 86.8% · Python 1.9%
 
-> ✅ Time-series forecasting · Trend & seasonality analysis · Visual forecast plots · Simulation engine
+Time-series forecasting · Trend & seasonality analysis · Visual forecast plots · `run_simulation.py` engine
 
----
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Bhogi123-T/AI-Sales-Forecasting)
+
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
 
 ### 🖐 Hand Controllers — Vision-Based HCI Suite
-[![Screen Controller](https://img.shields.io/badge/Hand_Screen_Controller-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Bhogi123-T/Hand-Screen-controller)
-[![Volume Controller](https://img.shields.io/badge/Hand_Volume_Controller-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Bhogi123-T/Hand-volume-controller)
+
+**Gesture-driven computer control via computer vision**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
 
-Two gesture-based HCI tools — **Hand Screen Controller** maps hand landmarks to full screen control; **Hand Volume Controller** maps finger distance to system volume. Zero physical input required.
+**Hand Screen Controller** — maps hand landmarks to full screen control with zero physical input. **Hand Volume Controller** — maps finger distance to system volume in real time. Low-latency, high-accuracy.
 
-> ✅ Real-time hand tracking · Touch-free control · Low-latency response · High accuracy gesture detection
+[![Screen Ctrl](https://img.shields.io/badge/Hand_Screen_Ctrl-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Bhogi123-T/Hand-Screen-controller)
+[![Volume Ctrl](https://img.shields.io/badge/Hand_Volume_Ctrl-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Bhogi123-T/Hand-volume-controller)
 
----
+</td>
+
+<td width="50%" valign="top">
 
 ### 🤖 Here-and-Now-AI · 🎙️ Jarvis
+
+**Real-time AI agents & voice automation**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Speech](https://img.shields.io/badge/Speech_Recognition-FF6B6B?style=flat-square&logo=python&logoColor=white)
+
+**Here-and-Now-AI** — real-time, context-aware AI assistant framework with extensible agent workflows and modular prompt pipelines across 9 AI sub-projects. **Jarvis** — voice-enabled AI assistant for intelligent task automation with speech recognition and modular command handling.
+
 [![Here-and-Now-AI](https://img.shields.io/badge/Here--and--Now--AI-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Bhogi123-T/Here-and-Now-AI)
 [![Jarvis](https://img.shields.io/badge/Jarvis-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Bhogi123-T/Jarvis)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-**Here-and-Now-AI** — real-time, context-aware AI assistant framework with extensible agent workflows and modular prompt pipelines across 9 AI sub-projects.  
-**Jarvis** — voice-enabled AI assistant for intelligent task automation with speech recognition and modular command handling.
+</td>
+
+</tr>
+</table>
+</div>
 
 ## 📊 GitHub Overview
 

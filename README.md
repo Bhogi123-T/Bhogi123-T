@@ -1,226 +1,222 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:0d1117,100:161b22&height=120&section=header&animation=fadeIn" />
-
-</div>
-
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,30:0d2137,70:0a4a6b,100:00b4d8&height=220&section=header&text=Bhogeswara%20Rao%20T&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20FAANG%20Aspirant&descAlignY=60&descSize=17&animation=fadeIn" />
 
 <br/>
 
-```
-  ██████╗ ██╗  ██╗ ██████╗  ██████╗ ███████╗███████╗██╗    ██╗ █████╗ ██████╗  █████╗     ██████╗  █████╗  ██████╗     ████████╗
-  ██╔══██╗██║  ██║██╔═══██╗██╔════╝ ██╔════╝██╔════╝██║    ██║██╔══██╗██╔══██╗██╔══██╗    ██╔══██╗██╔══██╗██╔═══██╗       ██╔══╝
-  ██████╔╝███████║██║   ██║██║  ███╗█████╗  ███████╗██║ █╗ ██║███████║██████╔╝███████║    ██████╔╝███████║██║   ██║       ██║   
-  ██╔══██╗██╔══██║██║   ██║██║   ██║██╔══╝  ╚════██║██║███╗██║██╔══██║██╔══██╗██╔══██║    ██╔══██╗██╔══██║██║   ██║       ██║   
-  ██████╔╝██║  ██║╚██████╔╝╚██████╔╝███████╗███████║╚███╔███╔╝██║  ██║██║  ██║██║  ██║    ██║  ██║██║  ██║╚██████╔╝       ██║   
-  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚══════╝╚══════╝ ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝    ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝        ╚═╝   
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=00B4D8&center=true&vCenter=true&width=750&lines=Building+Production-Grade+AI+Systems+%F0%9F%A4%96;Real-Time+%7C+Scalable+%7C+Full-Stack+Engineering+%F0%9F%9A%80;B.Tech+CSE+(AI)+%E2%80%94+Sathyabama+University%2C+Chennai+%F0%9F%8E%93;Open+to+SDE+Internships+%26+Entry-Level+Roles+%F0%9F%92%BC;Design+with+Purpose.+Code+with+Impact.+%E2%9C%A8" />
 
-</div>
+<br/><br/>
 
-<div align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bhogeswara%20Rao-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhogeswara-rao-thirumalasetti-91929b2b4)
+[![GitHub](https://img.shields.io/badge/GitHub-Bhogi123--T-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bhogi123-T)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhogeswararaothirumalasetti@gmail.com)
+[![Live Demo](https://img.shields.io/badge/AQUA%20Live-onrender.com-00b4d8?style=for-the-badge&logo=vercel&logoColor=white)](https://aqua-ttiu.onrender.com)
 
 <br/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%26+Full-Stack+Developer;Building+production-grade+AI+systems;B.Tech+CSE+(AI)+%40+Sathyabama+University;Open+to+SDE+Internships+%26+Entry-Level+Roles)
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhogeswara-rao-thirumalasetti-91929b2b4)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-238636?style=flat-square&logo=github&logoColor=white)](https://github.com/Bhogi123-T)&nbsp;
-[![Gmail](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:bhogeswararaothirumalasetti@gmail.com)&nbsp;
-[![Profile Views](https://komarev.com/ghpvc/?username=Bhogi123-T&style=flat-square&color=58a6ff&label=Profile+Views)](https://github.com/Bhogi123-T)
+![Profile Views](https://komarev.com/ghpvc/?username=Bhogi123-T&color=00b4d8&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/Bhogi123-T?style=flat-square&color=00b4d8&label=Followers)
+![Repos](https://img.shields.io/badge/Public%20Repos-12-00b4d8?style=flat-square)
 
 </div>
 
 ---
 
-## 👋 About Me
+## 👨‍💻 About Me
 
-I'm **Bhogeswara Rao T**, an AI Engineer and Full-Stack Developer based in **Chennai, India**, graduating with a **B.Tech in CSE (AI)** from Sathyabama Institute of Science and Technology in 2025.
+```python
+class BhogeswaraRao T:
 
-I specialize in building **production-ready AI systems** and **full-stack applications** — from custom ML algorithms to real-time collaborative platforms. My work spans proprietary model development, LLM integrations, computer vision, and cloud-deployed web systems.
+    name        = "Bhogeswara Rao T"
+    location    = "Chennai, India 📍"
+    education   = "B.Tech CSE (AI) — Sathyabama Institute of Science & Technology"
 
-> *"Every mistake trains me. Every step upgrades me. Growth over approval."*
+    domains     = ["AI/ML Engineering", "Full-Stack Development", "Real-Time Systems",
+                   "Computer Vision", "Predictive Analytics", "Intelligent Agents"]
 
-&nbsp;&nbsp;📍 Chennai, India &nbsp;&nbsp;|&nbsp;&nbsp; 🎓 B.Tech CSE (AI) · 2025 &nbsp;&nbsp;|&nbsp;&nbsp; 💼 Open to SDE Internships & Entry-Level Roles
+    currently   = ["DSA & Algorithms (FAANG Prep)", "System Design",
+                   "Scalable AI Applications", "Distributed Architecture"]
+
+    open_to     = ["SDE Internships", "Entry-Level Engineering Roles",
+                   "Open-Source", "Hackathons", "Technical Mentorship"]
+
+    quote       = "Every mistake trains me. Every step upgrades me. Growth over approval. ☺️"
+```
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
+<div align="center">
 
+### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Rust](https://img.shields.io/badge/Rust-CE422B?style=flat-square&logo=rust&logoColor=white)
 
-**Frontend**
-
+### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Backend**
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+### ⚙️ Backend & APIs
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Actix Web](https://img.shields.io/badge/Actix--Web-CE422B?style=flat-square&logo=rust&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-**AI / ML**
-
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=flat-square&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_2.5-4285F4?style=flat-square&logo=google&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
-
-**Databases & Cloud**
-
+### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### 🤖 AI / ML / Computer Vision
+![OpenAI](https://img.shields.io/badge/OpenAI_API-000000?style=flat-square&logo=openai&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Random Forest](https://img.shields.io/badge/Random_Forest-4CAF50?style=flat-square)
+![Gradient Boosting](https://img.shields.io/badge/Gradient_Boosting-FF7043?style=flat-square)
+
+### 🧰 DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### 🌊 AQUA — AI Smart Aquaculture Platform
-> **Status:** 🟢 Live in Production &nbsp;|&nbsp; **Stack:** Python · Flask · scikit-learn · Supabase · PWA
-
-An end-to-end AI ecosystem for aquaculture, connecting **7 stakeholder roles** across the full supply chain. Built **4 proprietary ML algorithms** from scratch — no off-the-shelf models.
-
-| Algorithm | Purpose | Accuracy |
-|-----------|---------|:--------:|
-| **ADER** — Aquaculture Decision Enhancement Regressor | Yield prediction & feed optimization | 92–95% |
-| **APDC** — Aqua Predictive Disease Classifier | Multi-class disease risk scoring | 88–91% |
-| **ASER** — Adaptive Stocking Ensemble Regressor | Stocking density optimization | 90–93% |
-| **AMPRO** — Aqua Market Price Optimizer | Real-time buyer price prediction | 85–89% |
-
-**Key Features:** OTP & Google OAuth 2.0 · Multi-language support · Offline PWA · Direct Trade Engine · Role-based dashboards
-
-[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Bhogi123-T/AQUA)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-0ea5e9?style=flat-square&logo=vercel&logoColor=white)](https://aqua-ttiu.onrender.com)
-
----
-
-### 🤖 NEXA AI — Conversational Intelligence Platform
-> **Status:** 🟢 Live in Production &nbsp;|&nbsp; **Stack:** Python · Flask · LLM API · Web Speech API
-
-Multi-modal AI assistant supporting **text, voice, and file uploads**. Streams real-time responses from an LLM engine behind secure session authentication.
-
-**Key Features:** Web Speech API voice input · File upload & AI analysis · Real-time response streaming · Secure session auth
-
-[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Bhogi123-T/NEXA_AI)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-6366f1?style=flat-square&logo=vercel&logoColor=white)](https://nexa-ai-uxj9.onrender.com)
-
----
-
-### 🌌 Chill Space v3 — Real-Time Collaboration Hub
-> **Status:** 🟡 In Development &nbsp;|&nbsp; **Stack:** Next.js 16 · React 19 · Supabase · Rust (Actix-Web) · Monaco Editor
-
-Premium collaborative workspace with a glassmorphism UI, **Monaco in-browser IDE**, **Rust-powered code execution engine**, Supabase real-time chat, and a gamified focus mode.
-
-**Key Features:** Monaco Editor · Rust Actix-Web backend · Supabase Realtime · Framer Motion animations · Multi-language code runner
-
-[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Bhogi123-T/Chill-Space)
-[![Frontend Live](https://img.shields.io/badge/Frontend_Live-8b5cf6?style=flat-square&logo=netlify&logoColor=white)](https://tamizh-loginpage.netlify.app)
-
----
-
-### 🎯 Ultimate Interview Prep — AI FAANG Simulator
-> **Status:** 🟡 In Development &nbsp;|&nbsp; **Stack:** Python · Flask · SQLite · Gemini 2.5 Flash
-
-FAANG-style interview simulator with Gemini-powered DSA question generation (Easy/Medium/Hard), a live Python code sandbox with time-complexity analysis, AI hint system, and resume critique engine.
-
-**Key Features:** Gemini 2.5 Flash · Live code sandbox · Time-complexity analysis · Resume analyzer · AI hint mode · SQLite progress tracker
-
-[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Bhogi123-T/Ultimate-Interview-prep-platform)
-
----
-
-### 📊 Smart DSA Tracker — AI Practice Engine
-> **Status:** 🟡 In Development &nbsp;|&nbsp; **Stack:** Python · Flask · SQLite · Chart.js 4
-
-Full-featured DSA practice platform with a built-in solve timer, 5 Chart.js dashboards (topic coverage, difficulty distribution, 14-day streak, avg time bar, weekday heatmap), and a 3-strategy AI suggestion engine.
-
-| Strategy | Logic |
-|----------|-------|
-| **GAP FILL** | Suggests Easy problems for untouched topics |
-| **LEVEL UP** | Pushes Medium/Hard in strong topic areas |
-| **SPEED DRILL** | Recommends Easy if average solve time > 40 min |
-
-[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Bhogi123-T/Smart-DSA-Practice-Tracker)
-
----
-
-### ⚫ Other Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [AI Sales Forecasting](https://github.com/Bhogi123-T/AI-Sales-Forecasting) | Time-series ML for trend & seasonality forecasting | TypeScript 86.8% |
-| [Here-and-Now-AI](https://github.com/Bhogi123-T/Here-and-Now-AI) | 9 real-time AI sub-projects & agents | Python 65.2% |
-| [Hand Screen Controller](https://github.com/Bhogi123-T/Hand-Screen-controller) | Gesture-based screen HCI via hand landmarks | Python · OpenCV · MediaPipe |
-| [Hand Volume Controller](https://github.com/Bhogi123-T/Hand-volume-controller) | Finger distance → system volume mapping | Python |
-| [Jarvis](https://github.com/Bhogi123-T/Jarvis) | Speech recognition voice task automation | Python |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Bhogi123-T&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&custom_title=Activity+Overview" />
-&nbsp;
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhogi123-T&layout=compact&theme=github_dark&hide_border=true&langs_count=8&custom_title=Top+Languages" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhogi123-T&theme=github-dark-blue&hide_border=true" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhogi123-T&theme=github-compact&hide_border=true&area=true&custom_title=Contribution+Activity" />
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
 
 </div>
 
 ---
 
-## 🎯 2025 Roadmap
+## 🚀 Projects
 
-| Area | Focus |
-|------|-------|
-| 📚 **DSA** | Arrays, Trees, Graphs, Dynamic Programming |
-| 🏗️ **System Design** | Distributed Systems, Caching, Scalability |
-| ⚡ **Real-Time Systems** | WebSockets, Event-Driven Architecture, Stream Processing |
-| 🤖 **AI / LLM** | Agentic Workflows, RAG pipelines, LLM Fine-tuning |
-| 🎯 **Target** | FAANG-level SDE role by end of 2025 |
+### 🌊 [AQUA — AI Smart Aquaculture Platform](https://github.com/Bhogi123-T/AQUA)
+> **Live:** [aqua-ttiu.onrender.com](https://aqua-ttiu.onrender.com) &nbsp;|&nbsp; `Python` `Flask` `ML` `Supabase` `PWA`
+
+A production-deployed, AI-driven Progressive Web App transforming the aquaculture industry. Built with **4 proprietary ML algorithms** and a full **role-based supply chain ecosystem** connecting farmers, hatcheries, buyers, labs, and processing plants.
+
+| Algorithm | Purpose | Accuracy |
+|-----------|---------|----------|
+| **ADER** — Aquaculture Decision Enhancement Regressor | Yield prediction & feed optimization | 92–95% |
+| **APDC** — Aqua Predictive Disease Classifier | Multi-class disease risk assessment | 88–91% |
+| **ASER** — Adaptive Stocking Ensemble Regressor | Optimal stocking density | 90–93% |
+| **AMPRO** — Aqua Market Price Optimizer | Real-time buyer price prediction | 85–89% |
+
+**Stack breakdown:** Python 45.5% · HTML 43% · JavaScript 6.8% · CSS 4.7%  
+**Key Features:** OTP auth (Email/SMS + Google OAuth) · Multi-language PWA · Real-time market matrix · Direct trade engine · Offline-capable · Vercel/Render deployed
 
 ---
 
-## 💼 Open To
+### 📈 [AI Sales Forecasting — Business Intelligence System](https://github.com/Bhogi123-T/AI-Sales-Forecasting)
+> `TypeScript` `Python` `HTML` `Time-Series ML`
+
+Enterprise predictive analytics platform for sales forecasting. Implements time-series models with trend and seasonality decomposition, simulation engine, and visual forecast dashboards.
+
+**Stack breakdown:** TypeScript 86.8% · HTML 10.5% · Python 1.9%  
+**Key Features:** Time-series forecasting · Trend & seasonality analysis · Visual forecast plots · `run_simulation.py` simulation engine · Preview app included
+
+---
+
+### 🤖 [Here-and-Now-AI — Real-Time AI Interaction Engine](https://github.com/Bhogi123-T/Here-and-Now-AI)
+> `Python` `AI Agents` `Automation`
+
+Framework for building real-time, context-aware AI assistants with extensible agent workflows and modular prompt pipelines.
+
+**Key Features:** Context-aware prompt workflows · Real-time AI pipelines · Intelligent agents · Extensible plugin architecture
+
+---
+
+### 🖐 [Hand Screen Controller — Gesture-Based HCI](https://github.com/Bhogi123-T/Hand-Screen-controller)
+> `Python` `OpenCV` `Computer Vision`
+
+Hands-free computer control system using real-time hand landmark tracking. Zero physical input required.
+
+**Key Features:** Real-time hand tracking · Touch-free screen control · Accurate gesture detection · Low-latency response
+
+---
+
+### 📢 [Hand Volume Controller — Vision-Based Audio Control](https://github.com/Bhogi123-T/Hand-volume-controller)
+> `Python` `OpenCV` `HCI`
+
+Maps finger-distance to system volume levels in real time using computer vision.
+
+**Key Features:** Touch-free volume control · Vision-based gesture mapping · High accuracy · Real-time response
+
+---
+
+### 🤖 [Jarvis — AI Voice Assistant](https://github.com/Bhogi123-T/Jarvis)
+> `Python` `Speech Recognition` `Automation`
+
+Voice-enabled AI assistant for intelligent task automation with modular command handling.
+
+**Key Features:** Speech recognition · Intelligent command parsing · Task automation · Extensible modules
+
+---
+
+### 🌌 [Chill Space — Real-Time Collaboration Platform](https://github.com/Bhogi123-T/Chill-Space)
+> `TypeScript` `Real-Time` `Frontend`
+
+Collaborative workspace for teams and students with real-time interaction and file/resource sharing.
+
+**Key Features:** Real-time collaboration · File & resource sharing · Productivity-focused UI · Fast & responsive
+
+---
+
+### 🧠 [PT1](https://github.com/Bhogi123-T/PT1) &nbsp;·&nbsp; 💻 [Codesoft](https://github.com/Bhogi123-T/codesoft)
+> `Python` · Core algorithms · Problem solving · Clean logic
+
+Structured practice repositories covering Python fundamentals, algorithmic thinking, and reusable scripting patterns built during early engineering years.
+
+---
+
+## 📊 GitHub Overview
+
+> ⚡ **All stats auto-update** via live GitHub APIs — reflects real activity in real time.
 
 <div align="center">
 
-[![SDE Internships](https://img.shields.io/badge/💼_SDE_Internships-Actively_Looking-238636?style=for-the-badge&labelColor=161b22)](mailto:bhogeswararaothirumalasetti@gmail.com)
-&nbsp;
-[![Entry-Level Roles](https://img.shields.io/badge/🚀_Entry--Level_Roles-Actively_Looking-238636?style=for-the-badge&labelColor=161b22)](mailto:bhogeswararaothirumalasetti@gmail.com)
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Bhogi123-T&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9&rank_icon=github" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhogi123-T&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=c9d1d9&langs_count=8" />
 
 <br/>
 
-[![Open Source](https://img.shields.io/badge/🤝_Open_Source-Open-58a6ff?style=for-the-badge&labelColor=161b22)](https://github.com/Bhogi123-T)
-&nbsp;
-[![Hackathons](https://img.shields.io/badge/🧠_Hackathons-Open-58a6ff?style=for-the-badge&labelColor=161b22)](https://github.com/Bhogi123-T)
-&nbsp;
-[![Mentorship](https://img.shields.io/badge/💬_Mentorship-Open-58a6ff?style=for-the-badge&labelColor=161b22)](mailto:bhogeswararaothirumalasetti@gmail.com)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhogi123-T&theme=tokyonight&hide_border=true&background=0d1117&stroke=00b4d8&ring=00b4d8&fire=ff6b6b&currStreakLabel=00b4d8&sideLabels=c9d1d9&dates=8b949e" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhogi123-T&theme=tokyo-night&bg_color=0d1117&color=00b4d8&line=00b4d8&point=ffffff&hide_border=true&area=true&area_color=00b4d820" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bhogi123-T&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bhogi123-T&theme=tokyonight&utcOffset=5.5" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bhogi123-T&theme=tokyonight" />
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+| Area | Goal |
+|------|------|
+| 📚 DSA & Problem Solving | FAANG-level interview prep — arrays, trees, DP, graphs |
+| 🏗️ System Design | Distributed systems, load balancing, scalable architecture |
+| ⚡ Real-Time Systems | WebSockets, event-driven design, streaming pipelines |
+| 🤖 AI Agents & LLMs | Production-grade AI applications and agentic workflows |
+
+---
+
+## 🌱 Open To
+
+<div align="center">
+
+![Internship](https://img.shields.io/badge/💼_SDE_Internships-Open-00b4d8?style=for-the-badge)
+![Entry Level](https://img.shields.io/badge/🚀_Entry--Level_Roles-Open-00b4d8?style=for-the-badge)
+![Open Source](https://img.shields.io/badge/🤝_Open--Source-Open-00b4d8?style=for-the-badge)
+![Hackathons](https://img.shields.io/badge/🧠_Hackathons-Open-00b4d8?style=for-the-badge)
 
 </div>
 
@@ -228,8 +224,10 @@ Full-featured DSA practice platform with a built-in solve timer, 5 Chart.js dash
 
 <div align="center">
 
-**Bhogeswara Rao T** &nbsp;·&nbsp; Chennai, India &nbsp;·&nbsp; [github.com/Bhogi123-T](https://github.com/Bhogi123-T) &nbsp;·&nbsp; [bhogeswararaothirumalasetti@gmail.com](mailto:bhogeswararaothirumalasetti@gmail.com)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:0a4a6b,100:0a0f1e&height=130&section=footer&animation=fadeIn" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,50:0d1117,100:0a0a0f&height=80&section=footer" />
+**"Every mistake trains me. Every step upgrades me. Growth over approval."**
+
+*— Bhogeswara Rao T · Chennai, India*
 
 </div>

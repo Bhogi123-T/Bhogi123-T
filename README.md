@@ -25,59 +25,86 @@
 
 ## 👨‍💻 About Me
 
-```python
-class BhogeswaraRaoT:
+<img align="right" width="280" src="https://raw.githubusercontent.com/Bhogi123-T/Bhogi123-T/main/assets/coding.gif" alt="coding gif" />
 
-    # ─────────────────────────────────────────────
-    #   IDENTITY
-    # ─────────────────────────────────────────────
-    name        = "Bhogeswara Rao T"
-    location    = "Chennai, India 🌏"
-    education   = "B.Tech CSE (AI) — Sathyabama Institute of Science & Technology · 2025"
+**Hey, I'm Bhogeswara Rao T** — an AI Engineer and Full-Stack Developer from **Chennai, India**.
 
-    # ─────────────────────────────────────────────
-    #   ENGINEERING DOMAINS
-    # ─────────────────────────────────────────────
-    domains = [
-        "AI / ML Engineering",        # Proprietary models · LLM integrations · Agents
-        "Full-Stack Development",      # Flask · FastAPI · Next.js · React · REST APIs
-        "Real-Time Systems",           # WebSockets · Event-driven · Stream processing
-        "Computer Vision",             # OpenCV · MediaPipe · Gesture HCI
-        "Predictive Analytics",        # Time-series · Forecasting · Ensemble models
-        "Intelligent Agents",          # Agentic workflows · RAG · Prompt pipelines
-    ]
+I build **production-grade AI systems** and **full-stack applications** that ship to real users — from designing proprietary ML algorithms to deploying real-time collaborative platforms on the cloud.
 
-    # ─────────────────────────────────────────────
-    #   CURRENTLY WORKING ON
-    # ─────────────────────────────────────────────
-    currently = [
-        "DSA & Algorithms  →  FAANG-level interview preparation",
-        "System Design     →  Distributed systems & scalable architecture",
-        "AI Applications   →  Production-grade LLM & agentic systems",
-        "Chill Space v3    →  Real-time collab hub (Next.js + Rust + Supabase)",
-    ]
+Currently finishing my **B.Tech in CSE (Artificial Intelligence)** at Sathyabama Institute of Science & Technology (2025), while actively preparing for FAANG-level engineering roles.
 
-    # ─────────────────────────────────────────────
-    #   OPEN TO
-    # ─────────────────────────────────────────────
-    open_to = [
-        "SDE Internships",
-        "Entry-Level Engineering Roles",
-        "Open-Source Collaboration",
-        "Hackathons",
-        "Technical Mentorship",
-    ]
+<br/>
 
-    # ─────────────────────────────────────────────
-    #   PRINCIPLE
-    # ─────────────────────────────────────────────
-    def __repr__(self):
-        return (
-            "Every mistake trains me. "
-            "Every step upgrades me. "
-            "Growth over approval. ☺️"
-        )
-```
+🔭 &nbsp;**Building** &nbsp;→&nbsp; Chill Space v3 · Ultimate Interview Prep · Smart DSA Tracker  
+🌱 &nbsp;**Learning** &nbsp;→&nbsp; System Design · Distributed Systems · LLM Agentic Workflows  
+🎯 &nbsp;**Goal** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→&nbsp; FAANG-level SDE role by end of 2025  
+📍 &nbsp;**Location** →&nbsp; Chennai, India  
+📬 &nbsp;**Contact** &nbsp;→&nbsp; [bhogeswararaothirumalasetti@gmail.com](mailto:bhogeswararaothirumalasetti@gmail.com)
+
+<br/>
+
+> *"Every mistake trains me. Every step upgrades me. Growth over approval."*
+
+<br clear="right"/>
+
+---
+
+### 🧠 What I Work On
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+**🤖 AI / ML Engineering**  
+Proprietary ML models  
+LLM integrations  
+Agentic workflows · RAG
+
+</td>
+<td align="center" width="33%">
+
+**🌐 Full-Stack Development**  
+Flask · FastAPI · Next.js  
+React · REST APIs  
+Real-time systems
+
+</td>
+<td align="center" width="33%">
+
+**👁️ Computer Vision**  
+OpenCV · MediaPipe  
+Hand landmark tracking  
+Gesture-based HCI
+
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+
+**📊 Predictive Analytics**  
+Time-series forecasting  
+Ensemble models  
+Trend & seasonality
+
+</td>
+<td align="center" width="33%">
+
+**☁️ Cloud & DevOps**  
+Render · Vercel · Netlify  
+Docker · GitHub Actions  
+PWA deployment
+
+</td>
+<td align="center" width="33%">
+
+**🗄️ Data Engineering**  
+PostgreSQL · Supabase  
+SQLite · MySQL  
+Real-time data pipelines
+
+</td>
+</tr>
+</table>
 
 ## 🛠️ Tech Stack
 

@@ -182,6 +182,10 @@ Structured practice repositories covering Python fundamentals, algorithmic think
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhogi123-T&theme=tokyonight&hide_border=true&background=0d1117&stroke=00b4d8&ring=00b4d8&fire=ff6b6b&currStreakLabel=00b4d8&sideLabels=c9d1d9&dates=8b949e" />
 
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bhogi123-T&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bhogi123-T&theme=tokyonight&utcOffset=5.5" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bhogi123-T&theme=tokyonight" />
+
 
 </div>
 

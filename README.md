@@ -31,13 +31,13 @@
 
 I build **production-grade AI systems** and **full-stack applications** that ship to real users — from designing proprietary ML algorithms to deploying real-time collaborative platforms on the cloud.
 
-Currently finishing my **B.Tech in CSE (Artificial Intelligence)** at Sathyabama Institute of Science & Technology(2027) , while actively preparing for FAANG-level engineering roles.
+Currently finishing my **B.Tech in CSE (Artificial Intelligence)** at Sathyabama Institute of Science & Technology , while actively preparing for FAANG-level engineering roles.
 
 <br/>
 
 🔭 &nbsp;**Building** &nbsp;→&nbsp; Chill Space v3 · Ultimate Interview Prep · Smart DSA Tracker  
 🌱 &nbsp;**Learning** &nbsp;→&nbsp; System Design · Distributed Systems · LLM Agentic Workflows  
-🎯 &nbsp;**Goal** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→&nbsp; FAANG-level SDE role by end of 2027  
+🎯 &nbsp;**Goal** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→&nbsp; Targeting FAANG-level SDE roles · Actively looking
 📍 &nbsp;**Location** →&nbsp; Chennai, India  
 📬 &nbsp;**Contact** &nbsp;→&nbsp; [bhogeswararaothirumalasetti@gmail.com](mailto:bhogeswararaothirumalasetti@gmail.com)
 

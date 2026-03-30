@@ -446,23 +446,6 @@ Ensemble model architecture · Decomposition analysis · Export-ready visual plo
 
 ---
 
-<!-- ── CONTRIBUTION GRAPH ───────────────────────────────────────────────── -->
-
-## 📅 Contribution Activity
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhogi123-T&theme=react-dark&bg_color=020817&color=38bdf8&line=0ea5e9&point=f0f9ff&area=true&hide_border=true&radius=12" width="98%"/>
-
-</div>
-
-<br/>
-
----
-
-<!-- ── CURRENT FOCUS ────────────────────────────────────────────────────── -->
 
 ## 🎯 Current Focus
 
